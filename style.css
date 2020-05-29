@@ -14,8 +14,9 @@ body {
 }
 
 .side-img{
-    width: 50%;
-    padding-left: 25%;
+    width: 70%;
+    padding-left: 20%;
+    padding-top: 25% ;
 }
 .primary-btn{
     color: white;
@@ -25,8 +26,19 @@ body {
     text-decoration: none;
 }
 h1 { 
-    font-size: 2em;
+    font-size: 1.5em;
 }
+.container{
+    padding-left: 5%;
+    display: inline-block;
+}
+
+
+
+
+
+
+
 
 
 
